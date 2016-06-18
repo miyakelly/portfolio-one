@@ -1,0 +1,23 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5em;
+    color: #606060;
+    background-color: #f6f6f5;
+}
+
+h2 {font-weight: 700; font-size: 2.7em;}
+h7 {font-weight: 300; font-size: .9em;}
+p {font-weight: 400; font-size: 1.1em;}
+.container {text-align: center;}
+
+.logo {
+    display: block;
+}
+
+img {
+    width: 160px; height: 160px;
+    margin: 100px 0 50px 0;
+}
+.eight {
+    text-align: center;
+}
